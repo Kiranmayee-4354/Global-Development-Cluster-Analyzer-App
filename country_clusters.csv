@@ -1,0 +1,188 @@
+Country,Cluster,Algorithm,Cluster_Label
+Algeria,0,DBSCAN,Cluster 0
+Angola,0,DBSCAN,Cluster 0
+Benin,0,DBSCAN,Cluster 0
+Botswana,0,DBSCAN,Cluster 0
+Burkina Faso,0,DBSCAN,Cluster 0
+Burundi,0,DBSCAN,Cluster 0
+Cameroon,0,DBSCAN,Cluster 0
+Central African Republic,0,DBSCAN,Cluster 0
+Chad,0,DBSCAN,Cluster 0
+Comoros,0,DBSCAN,Cluster 0
+"Congo, Dem. Rep.",0,DBSCAN,Cluster 0
+"Congo, Rep.",0,DBSCAN,Cluster 0
+Cote d'Ivoire,0,DBSCAN,Cluster 0
+Djibouti,0,DBSCAN,Cluster 0
+"Egypt, Arab Rep.",-1,DBSCAN,Noise (Outlier)
+Equatorial Guinea,0,DBSCAN,Cluster 0
+Eritrea,0,DBSCAN,Cluster 0
+Ethiopia,0,DBSCAN,Cluster 0
+Gabon,0,DBSCAN,Cluster 0
+"Gambia, The",0,DBSCAN,Cluster 0
+Ghana,0,DBSCAN,Cluster 0
+Guinea,0,DBSCAN,Cluster 0
+Kenya,0,DBSCAN,Cluster 0
+Lesotho,0,DBSCAN,Cluster 0
+Liberia,0,DBSCAN,Cluster 0
+Libya,0,DBSCAN,Cluster 0
+Madagascar,0,DBSCAN,Cluster 0
+Malawi,0,DBSCAN,Cluster 0
+Mali,0,DBSCAN,Cluster 0
+Mauritania,0,DBSCAN,Cluster 0
+Mauritius,0,DBSCAN,Cluster 0
+Morocco,0,DBSCAN,Cluster 0
+Mozambique,0,DBSCAN,Cluster 0
+Namibia,0,DBSCAN,Cluster 0
+Niger,0,DBSCAN,Cluster 0
+Nigeria,0,DBSCAN,Cluster 0
+Rwanda,0,DBSCAN,Cluster 0
+Sao Tome and Principe,0,DBSCAN,Cluster 0
+Senegal,0,DBSCAN,Cluster 0
+Seychelles,0,DBSCAN,Cluster 0
+Sierra Leone,0,DBSCAN,Cluster 0
+South Africa,-1,DBSCAN,Noise (Outlier)
+Sudan,0,DBSCAN,Cluster 0
+Swaziland,0,DBSCAN,Cluster 0
+Tanzania,0,DBSCAN,Cluster 0
+Togo,0,DBSCAN,Cluster 0
+Tunisia,0,DBSCAN,Cluster 0
+Uganda,0,DBSCAN,Cluster 0
+Zambia,0,DBSCAN,Cluster 0
+Zimbabwe,0,DBSCAN,Cluster 0
+Armenia,0,DBSCAN,Cluster 0
+Azerbaijan,0,DBSCAN,Cluster 0
+Bangladesh,0,DBSCAN,Cluster 0
+Bhutan,0,DBSCAN,Cluster 0
+Brunei Darussalam,0,DBSCAN,Cluster 0
+Cambodia,0,DBSCAN,Cluster 0
+China,-1,DBSCAN,Noise (Outlier)
+Georgia,0,DBSCAN,Cluster 0
+"Hong Kong SAR, China",-1,DBSCAN,Noise (Outlier)
+India,-1,DBSCAN,Noise (Outlier)
+Indonesia,-1,DBSCAN,Noise (Outlier)
+Japan,1,DBSCAN,Cluster 1
+Kazakhstan,-1,DBSCAN,Noise (Outlier)
+"Korea, Rep.",-1,DBSCAN,Noise (Outlier)
+Kyrgyz Republic,0,DBSCAN,Cluster 0
+Lao PDR,0,DBSCAN,Cluster 0
+Malaysia,-1,DBSCAN,Noise (Outlier)
+Maldives,0,DBSCAN,Cluster 0
+Mongolia,0,DBSCAN,Cluster 0
+Myanmar,0,DBSCAN,Cluster 0
+Nepal,0,DBSCAN,Cluster 0
+Pakistan,-1,DBSCAN,Noise (Outlier)
+Philippines,-1,DBSCAN,Noise (Outlier)
+Singapore,-1,DBSCAN,Noise (Outlier)
+Sri Lanka,0,DBSCAN,Cluster 0
+Tajikistan,0,DBSCAN,Cluster 0
+Thailand,-1,DBSCAN,Noise (Outlier)
+Turkmenistan,0,DBSCAN,Cluster 0
+Uzbekistan,0,DBSCAN,Cluster 0
+Vietnam,-1,DBSCAN,Noise (Outlier)
+Albania,0,DBSCAN,Cluster 0
+Austria,1,DBSCAN,Cluster 1
+Belarus,-1,DBSCAN,Noise (Outlier)
+Belgium,1,DBSCAN,Cluster 1
+Bosnia and Herzegovina,0,DBSCAN,Cluster 0
+Bulgaria,-1,DBSCAN,Noise (Outlier)
+Croatia,-1,DBSCAN,Noise (Outlier)
+Cyprus,-1,DBSCAN,Noise (Outlier)
+Czech Republic,-1,DBSCAN,Noise (Outlier)
+Denmark,1,DBSCAN,Cluster 1
+Estonia,-1,DBSCAN,Noise (Outlier)
+Finland,1,DBSCAN,Cluster 1
+France,1,DBSCAN,Cluster 1
+Germany,1,DBSCAN,Cluster 1
+Greece,1,DBSCAN,Cluster 1
+Hungary,-1,DBSCAN,Noise (Outlier)
+Iceland,-1,DBSCAN,Noise (Outlier)
+Ireland,-1,DBSCAN,Noise (Outlier)
+Italy,1,DBSCAN,Cluster 1
+Latvia,-1,DBSCAN,Noise (Outlier)
+Lithuania,-1,DBSCAN,Noise (Outlier)
+Luxembourg,-1,DBSCAN,Noise (Outlier)
+"Macedonia, FYR",0,DBSCAN,Cluster 0
+Malta,-1,DBSCAN,Noise (Outlier)
+Moldova,0,DBSCAN,Cluster 0
+Netherlands,1,DBSCAN,Cluster 1
+Norway,1,DBSCAN,Cluster 1
+Poland,-1,DBSCAN,Noise (Outlier)
+Portugal,1,DBSCAN,Cluster 1
+Romania,-1,DBSCAN,Noise (Outlier)
+Russian Federation,-1,DBSCAN,Noise (Outlier)
+Slovak Republic,0,DBSCAN,Cluster 0
+Slovenia,-1,DBSCAN,Noise (Outlier)
+Spain,1,DBSCAN,Cluster 1
+Sweden,1,DBSCAN,Cluster 1
+Switzerland,1,DBSCAN,Cluster 1
+Turkey,-1,DBSCAN,Noise (Outlier)
+Ukraine,-1,DBSCAN,Noise (Outlier)
+United Kingdom,1,DBSCAN,Cluster 1
+Bahrain,0,DBSCAN,Cluster 0
+"Iran, Islamic Rep.",-1,DBSCAN,Noise (Outlier)
+Iraq,-1,DBSCAN,Noise (Outlier)
+Israel,-1,DBSCAN,Noise (Outlier)
+Jordan,0,DBSCAN,Cluster 0
+Kuwait,-1,DBSCAN,Noise (Outlier)
+Lebanon,0,DBSCAN,Cluster 0
+Oman,0,DBSCAN,Cluster 0
+Qatar,-1,DBSCAN,Noise (Outlier)
+Saudi Arabia,-1,DBSCAN,Noise (Outlier)
+Syrian Arab Republic,0,DBSCAN,Cluster 0
+United Arab Emirates,-1,DBSCAN,Noise (Outlier)
+"Yemen, Rep.",0,DBSCAN,Cluster 0
+Australia,1,DBSCAN,Cluster 1
+Fiji,0,DBSCAN,Cluster 0
+Kiribati,0,DBSCAN,Cluster 0
+"Micronesia, Fed. Sts.",0,DBSCAN,Cluster 0
+New Zealand,-1,DBSCAN,Noise (Outlier)
+Papua New Guinea,0,DBSCAN,Cluster 0
+Samoa,0,DBSCAN,Cluster 0
+Solomon Islands,0,DBSCAN,Cluster 0
+Tonga,0,DBSCAN,Cluster 0
+Vanuatu,0,DBSCAN,Cluster 0
+Antigua and Barbuda,0,DBSCAN,Cluster 0
+Argentina,-1,DBSCAN,Noise (Outlier)
+Aruba,0,DBSCAN,Cluster 0
+"Bahamas, The",0,DBSCAN,Cluster 0
+Barbados,0,DBSCAN,Cluster 0
+Belize,0,DBSCAN,Cluster 0
+Bolivia,0,DBSCAN,Cluster 0
+Brazil,-1,DBSCAN,Noise (Outlier)
+Canada,1,DBSCAN,Cluster 1
+Chile,-1,DBSCAN,Noise (Outlier)
+Colombia,-1,DBSCAN,Noise (Outlier)
+Costa Rica,0,DBSCAN,Cluster 0
+Cuba,0,DBSCAN,Cluster 0
+Dominican Republic,0,DBSCAN,Cluster 0
+Ecuador,0,DBSCAN,Cluster 0
+El Salvador,0,DBSCAN,Cluster 0
+Grenada,0,DBSCAN,Cluster 0
+Guatemala,0,DBSCAN,Cluster 0
+Guyana,0,DBSCAN,Cluster 0
+Haiti,0,DBSCAN,Cluster 0
+Honduras,0,DBSCAN,Cluster 0
+Jamaica,0,DBSCAN,Cluster 0
+Mexico,-1,DBSCAN,Noise (Outlier)
+Nicaragua,0,DBSCAN,Cluster 0
+Panama,0,DBSCAN,Cluster 0
+Paraguay,0,DBSCAN,Cluster 0
+Peru,0,DBSCAN,Cluster 0
+St. Lucia,0,DBSCAN,Cluster 0
+St. Vincent and the Grenadines,0,DBSCAN,Cluster 0
+Suriname,0,DBSCAN,Cluster 0
+Trinidad and Tobago,0,DBSCAN,Cluster 0
+United States,1,DBSCAN,Cluster 1
+Uruguay,-1,DBSCAN,Noise (Outlier)
+"Venezuela, RB",-1,DBSCAN,Noise (Outlier)
+Guinea-Bissau,0,DBSCAN,Cluster 0
+Afghanistan,0,DBSCAN,Cluster 0
+"Macao SAR, China",-1,DBSCAN,Noise (Outlier)
+Serbia,0,DBSCAN,Cluster 0
+Dominica,0,DBSCAN,Cluster 0
+St. Kitts and Nevis,0,DBSCAN,Cluster 0
+Timor-Leste,0,DBSCAN,Cluster 0
+Montenegro,-1,DBSCAN,Noise (Outlier)
+Marshall Islands,0,DBSCAN,Cluster 0
+Puerto Rico,-1,DBSCAN,Noise (Outlier)
+South Sudan,0,DBSCAN,Cluster 0
