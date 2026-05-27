@@ -148,7 +148,7 @@ if menu == "Home":
 elif menu == "Dataset Overview":
 
     st.title("📊 Dataset Overview")
-    st.balloons()
+
     st.dataframe(df.head())
 
     st.subheader("Dataset Shape")
@@ -179,7 +179,7 @@ elif menu == "Dataset Overview":
 elif menu == "Cluster Visualization":
 
     st.title("🌍 Country Cluster Visualization")
-    st.balloons()
+    
     fig = px.scatter(
 
         df,
@@ -206,7 +206,7 @@ elif menu == "Cluster Visualization":
 elif menu == "Country Cluster Search":
 
     st.title("🔍 Country Cluster Search")
-    st.balloons()
+    
     country = st.selectbox(
 
         "Select Country",
@@ -231,7 +231,7 @@ elif menu == "Country Cluster Search":
 elif menu == "Cluster Insights":
 
     st.title("🧠 Cluster Insights")
-    st.balloons()
+    
     cluster_profile = (
 
         df
